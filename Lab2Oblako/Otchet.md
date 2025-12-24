@@ -18,3 +18,24 @@
 ---
 ## Сервисы
 
+1) Microsoft Azure Database for MySQL - сервис для выполнения SQL-запросов на базах данных. 
+
+2) Microsoft Azure Databricks
+
+3) Microsoft Viva Insights
+
+4) Microsoft Azure Resource Manager
+
+5) Microsoft Azure Data Factory
+
+6) Microsoft Azure Data Lake Storage
+
+7) Microsoft Azure Stream Analytics
+
+8) Microsoft Azure Cache for Redis
+
+9) Azure CDN
+
+10) Compute Job Scheduling 
+
+11) Azure Virtual Machines
